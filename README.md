@@ -19,19 +19,7 @@ An interactive desktop drawing application built using **C++** and **Qt**, offer
 
 ## 🧱 Project Structure
 
-INTERACTIVE_DRAWING_APP/
-├── main.cpp                   # Entry point of the application
-├── mainwindow.h / .cpp        # Main window with UI components and actions
-├── Canvas.h / .cpp            # Canvas widget that handles drawing and user interaction
-├── Shape.h                    # Abstract base class for drawable shapes
-├── Line.h / .cpp              # Line shape class
-├── Rectangle.h / .cpp         # Rectangle shape class
-├── Circle.h / .cpp            # Circle shape class
-├── FreehandStroke.h / .cpp    # Freehand drawing (brush/eraser) shape class
-├── UndoRedoManager.h / .cpp   # Manages undo/redo history of drawn shapes
-├── resources.qrc              # Resource file (icons, images)
-├── INTERACTIVE_DRAWING_APP.pro  # Qt project configuration file
-└── README.md                  # Project documentation (you’re reading it!)
+![image](https://github.com/user-attachments/assets/abef7ec9-abfa-4e5c-9876-5b928905db0a)
 
 ---
 
@@ -53,7 +41,7 @@ INTERACTIVE_DRAWING_APP/
 
 ## 📸 Screenshot
 
-![qt_cs112_project2](https://github.com/user-attachments/assets/7b705961-6263-4a0d-b00c-0dc397826e25)
+![image](https://github.com/user-attachments/assets/8ebe8cb1-1227-4154-b081-ee1dbdacf26e)
 
 
 ---
