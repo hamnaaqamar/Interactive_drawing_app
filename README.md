@@ -63,8 +63,6 @@ An interactive desktop drawing application built using **C++** and **Qt**, offer
 ---
 
 ## 🧑‍💻 Author
-
-- **Your Name**
 - GitHub: (https://github.com/hamnaaqamar)
 
 ---
