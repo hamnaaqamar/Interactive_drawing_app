@@ -1,5 +1,7 @@
 # 🖌️ Interactive Drawing App (Qt C++)
 
+## Created by Hamna Qamar, Hooria Dar, Aafeen Gillani
+
 An interactive desktop drawing application built using **C++** and **Qt**, offering a variety of tools like brush, eraser, shapes (line, rectangle, circle), undo/redo functionality, and support for freehand drawing.
 
 ---
